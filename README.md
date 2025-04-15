@@ -1,1 +1,1 @@
-# simpleprojects
+# tic-tac-toe
